@@ -34,7 +34,7 @@
   "anchors": [
     {
       "name": "Documentation",
-      "openapi": "TMDB.json",
+      "openapi": "/TMDB.json",
       "icon": "book-open-cover",
       "url": "https://mintlify.com/docs"
     },
