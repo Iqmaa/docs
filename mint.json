@@ -33,9 +33,9 @@
   ],
   "anchors": [
     {
-      "name": "Documentation",
+      "name": "Introduction",
       "icon": "book-open-cover",
-      "url": "https://mintlify.com/docs"
+      "url": "/API_intro"
     },
     {
       "name": "API Reference",
@@ -43,16 +43,6 @@
       "url": "api-reference",
       "icon": "square-terminal"
     },
-    {
-      "name": "Community",
-      "icon": "slack",
-      "url": "https://mintlify.com/community"
-    },
-    {
-      "name": "Blog",
-      "icon": "newspaper",
-      "url": "https://mintlify.com/blog"
-    }
   ],
   "navigation": [
     {
