@@ -58,7 +58,7 @@
     {
       "group": "Get Started",
       "pages": [
-        "introduction",
+        "API_intro",
         "quickstart",
         "development"
       ]
