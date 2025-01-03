@@ -34,7 +34,6 @@
   "anchors": [
     {
       "name": "Intro",
-      "openapi": "/TMDB.json",
       "icon": "book-open-cover",
       "url": "/API_intro"
     },
