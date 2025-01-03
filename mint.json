@@ -42,7 +42,7 @@
       "openapi": "/TMDB.json",
       "url": "api-reference",
       "icon": "square-terminal"
-    },
+    }
   ],
   "navigation": [
     {
