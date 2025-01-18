@@ -40,7 +40,7 @@
     },
     {
       "name": "API reference",
-      "openapi": "api-reference/TMDB.json",
+      "openapi": "/api-reference/TMDB.json",
       "icon": "square-terminal",
       "url": "api-reference"
     },
