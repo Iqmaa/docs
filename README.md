@@ -1,32 +1,12 @@
-# Mintlify Starter Kit
+# Mintlify API Documentation
 
-Click on `Use this template` to copy the Mintlify starter kit. The starter kit contains examples including
+<img width="1000" height="500" alt="image" src="https://pbs.twimg.com/profile_images/1243623122089041920/gVZIvphd_400x400.jpg" />
 
-- Guide pages
-- Navigation
-- Customizations
-- API Reference pages
-- Use of popular components
+## Introduction
 
-### Development
+The Movie Database (TMDB) is a community built movie and TV database. Every piece of data has been added by our amazing community dating back to 2008. TMDB’s strong international focus and breadth of data is largely unmatched and something we’re incredibly proud of Along with extensive metadata for movies, TV shows and people, we also offer one of the best selections of high resolution posters and backdrops. On average, over 1,000 images are added every single day.
 
-Install the [Mintlify CLI](https://www.npmjs.com/package/mintlify) to preview the documentation changes locally. To install, use the following command
+## Getting Started
+Get started with the basics of the TMDB API.
 
-```
-npm i -g mintlify
-```
-
-Run the following command at the root of your documentation (where mint.json is)
-
-```
-mintlify dev
-```
-
-### Publishing Changes
-
-Install our Github App to auto propagate changes from your repo to your deployment. Changes will be deployed to production automatically after pushing to the default branch. Find the link to install on your dashboard. 
-
-#### Troubleshooting
-
-- Mintlify dev isn't running - Run `mintlify install` it'll re-install dependencies.
-- Page loads as a 404 - Make sure you are running in a folder with `mint.json`
+Check out the live documentation [here](https://iqma-31aad55c.mintlify.app/api-reference/introduction)
